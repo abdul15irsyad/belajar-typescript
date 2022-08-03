@@ -1,0 +1,22 @@
+{
+    "users": [
+        {
+            "name": "irsyad",
+            "age": 22,
+            "address": "mauk",
+            "isMarried": false
+        },
+        {
+            "name": "abdul",
+            "age": 24,
+            "address": "pamulang",
+            "isMarried": false
+        },
+        {
+            "name": "hamid",
+            "age": 27,
+            "address": "bekasi",
+            "isMarried": true
+        }
+    ]
+}
